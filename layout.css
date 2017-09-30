@@ -9,12 +9,33 @@
     z-index: 73;
 }*/
 
+.display {
+    
+    
+    
+}
+
 .display-border {
+    
   position: absolute;
   left: 602px;
   top: 300px;
   width: 394px;
   height: 394px;
-  z-index: 74;
+
+    
 }
+
+.display-background {
+ 
+  position: absolute;
+  left: 591px;
+  top: 289px;
+  width: 416px;
+  height: 416px;
+}
+
+
+}
+
 
