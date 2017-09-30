@@ -19,7 +19,7 @@
     
   position: absolute;
   left: 602px;
-  top: 300px;
+  top: 220px;
   /*width: 394px;
   height: 394px;*/
 
@@ -30,12 +30,12 @@
  
   position: absolute;
   left: 591px;
-  top: 289px;
+  top: 209px;
   /*width: 416px;
-  height: 416px;
+  height: 416px;*/
+    
 }
 
 
-}
-
+/*must altenative to abslute position*/
 
